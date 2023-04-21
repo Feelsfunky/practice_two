@@ -1,0 +1,33 @@
+.par_one {
+    background-color: aqua;
+    font-size: 18px;
+    
+}
+
+.highlight {
+    background-color:yellow;
+    font-weight: bold;
+}
+
+.highlight_two {
+    background-color: yellowgreen;
+    font-style: italic;
+}
+
+.button_one {
+    background-color: orange;
+    font-weight: black;
+    font-size: 40px;
+
+}
+
+.button_two {
+    background-color:aquamarine;
+    font-size: 30px;
+}
+
+#button_page_two {
+    background-color:blueviolet;
+    font-size: 30px;
+    
+}
